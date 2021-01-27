@@ -6,7 +6,7 @@ system.
 <h3>Steps:</h3></br>
 
 1.Collect Data from different sources (e.g Use Udacity Self Driving Car Simulator)</br>
-2.Use Training.py and Utlis.py for traning on collcted data</br>
+2.Use Training.py and Utlis.py file for traning on collected data to create a Model</br>
 3.Use Udacity Self Driving Car Simulator or manually designed Raspberry-Pi vehicle to test the model</br>
 
 <h3>NOTE</h3></br>
